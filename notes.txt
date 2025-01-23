@@ -1,0 +1,36 @@
+
+.box10:after,.box10:before,{content:""}
+.box11,.box12,.box13,.box14,.box16,.box17,.box18,.box20,.box21,{overflow:hidden}
+.box10 .title,{letter-spacing:1px}
+
+
+
+
+
+
+.box10 .title,.box11 .title,{text-transform:uppercase}
+.box10,.box11,.box12,.box14,.box9{box-shadow:0 0 3px rgba(0,0,0,.3)}
+
+-----------------------------------------------------------------------
+box find out------------------------------------------------------
+.box:hover:after{border-left:3px solid #fff;border-right:3px solid #fff}
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+box8
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

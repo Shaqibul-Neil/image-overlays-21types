@@ -1,0 +1,72 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
+
+.box10:after,.box10:before,,{content:""}
+.box11,.box12,.box13,.box14,.box16,.box17,.box18,.box20,.box21,{overflow:hidden}
+.box10 .title,{letter-spacing:1px}
+
+.box10 .title,.box11 .title,{text-transform:uppercase}
+.box10,.box11,.box12,.box14,.box9{box-shadow:0 0 3px rgba(0,0,0,.3)}
+.box10 .icon li a,.box11,.box12,.box13,.box14,{text-align:center}
+
+
+	
+	
+	
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
